@@ -6,19 +6,19 @@
 
 ในวันจันทร์เราได้ทำความเข้าใจเกี่ยวกับAI และดูว่ามันทำอะไรได้บ้าง หลังจากนั้นจะเป็นเรื่องเกี่ยวกับการเขียนโปรแกรมเบื้องต้นในภาษาpython 
 
-## Tuesday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/1%20-%20Tuesday)
+## Tuesday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/2%20-%20Tuesday)
 
 ในวันอังคารเราได้เรียนเกี่ยวกับเรื่องการจัดการกับโครงสร้างข้อมูล เช่น List และได้ฝึกการใช้Numpyในการจัดการข้อมูลด้วย
 
-## Wednesday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/1%20-%20Wednesday)
+## Wednesday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/3%20-%20Wednesday)
 
 ในวันพุธเราได้ลองจัดการข้อมูลประเภทตารางโดยใช้Pandasและเรียนการใช้Scikitlearnในการสร้างmachine learning
 
-## Tuesday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/1%20-%20Thursday)
+## Tuesday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/4%20-%20Thursday)
 
 ในวันพฤหัสเราได้ลองเล่นกับชุดข้อมูลจริงที่มีข้อมูลว่าง มีข้อมูลที่อ่านยากนิดหน่อย ได้ลองจัดการกับมัน และได้ลองทำtext classificationคร่าวๆด้วย 
 
-## Friday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/1%20-%20Friday)
+## Friday [click](https://github.com/kangkengkhadev/CD_AI_BOOTCAMP/tree/main/5%20-%20Friday)
 
 ในวันสุดท้ายเราได้ลองทำimage classification กับชุดข้อมูลที่เราหามา 
 
